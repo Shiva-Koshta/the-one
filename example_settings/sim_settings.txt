@@ -1,0 +1,4 @@
+Scenario.name = SimRouter
+Group.router = SimRouter
+
+SimRouter.similarityThreshold = 0.1
